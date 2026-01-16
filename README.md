@@ -53,8 +53,8 @@
 ## How to Run the Repository
 1. Clone the repository
 
-        git clone https://github.com/your-username/Salary-Prediction.git
-        cd Salary-Prediction
+        git clone https://github.com/Gem793/Salary_Prediction_Model
+        cd Employee_Salary_Predictor
 2. Install required dependencies
         pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 3. Ensure `train_salary.csv` is present in the project directory
