@@ -56,6 +56,7 @@
         git clone https://github.com/Gem793/Salary_Prediction_Model
         cd Employee_Salary_Predictor
 2. Install required dependencies
+
         pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 3. Ensure `train_salary.csv` is present in the project directory
 4. Launch Jupyter Notebook
